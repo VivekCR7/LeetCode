@@ -1,1 +1,1 @@
-print("image")
+print("new_image")
